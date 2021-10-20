@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atif
-- 👀 I’m studying towards a Bsc in Computer Science
+- 👀 I’m studying towards a BSc in Computer Science
 - 🌱 I’m currently learning Enterprise App Dev (C#/.NET) & Mobile User Experience (UX/WebGL)
 - 📫 How to reach me - atif.butt2000@hotmail.com
 
