@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Atif
-- 👀 I’m studying towards a BSc in Computer Science
-- 🌱 I’m currently learning Enterprise App Dev (C#/.NET) Mobile User Experience (UX/JQuery Mobile) & React
-- 📫 How to reach me - atif.butt2000@hotmail.com
+- Hi, I’m Atif
+- I’m studying towards a BSc in Computer Science
+- I’m currently learning:
+  - Enterprise App Dev (C#/.NET) 
+  - Mobile User Experience (UX/JQuery Mobile) 
+  - React Native - iOS & Android App Dev (JavaScript + Firebase)
+
+- How to reach me - atif.butt2000@hotmail.com
 
 <!---
 atif-b/atif-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
