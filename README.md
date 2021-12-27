@@ -1,9 +1,9 @@
 - Hi, I’m Atif
 - I’m studying towards a BSc in Computer Science
 - I’m currently learning:
-  - Enterprise App Dev (C#/.NET) 
-  - Mobile User Experience (UX/JQuery Mobile) 
-  - React Native - iOS & Android App Dev (JavaScript + Firebase)
+  - Enterprise App Dev (C#/.NET) - Creating a Blazor Web App
+  - Mobile User Experience (UX/JQuery Mobile) - Designing and creating a Local Chef food delivery App
+  - React Native - iOS & Android App Dev (JavaScript + Firebase) - Researching, designing, and creating a social media app (in the context of a university)
 
 - How to reach me - atif.butt2000@hotmail.com
 
